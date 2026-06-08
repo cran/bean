@@ -1,7 +1,7 @@
 Package: bean
 Type: Package
 Title: Data Thinning of Species Occurrences in Environmental Space
-Version: 0.2.0
+Version: 0.2.1
 Authors@R: c(
     person("Paanwaris", "Paansri",
            role = c("cre", "aut"),
@@ -38,10 +38,10 @@ Config/testthat/edition: 3
 Config/roxygen2/version: 8.0.0
 RoxygenNote: 8.0.0
 NeedsCompilation: no
-Packaged: 2026-05-27 14:37:15 UTC; paanw
+Packaged: 2026-06-08 17:55:17 UTC; paanw
 Author: Paanwaris Paansri [cre, aut] (ORCID:
     <https://orcid.org/0000-0001-9992-098X>),
   Luis E. Escobar [aut, ctb] (ORCID:
     <https://orcid.org/0000-0001-5735-2750>)
 Repository: CRAN
-Date/Publication: 2026-05-30 13:50:07 UTC
+Date/Publication: 2026-06-08 18:20:13 UTC
